@@ -68,7 +68,7 @@ if prompt := st.chat_input("Say something..."):
 
         # --- Call the Gemini model ---
         response = client.models.generate_content(
-            model="gemini-2.5-flash",  # you can switch to another Gemini model if needed
+            model="gemini-1.5-flash",  # you can switch to another Gemini model if needed
             contents=prompt_text
         )
 
