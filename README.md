@@ -22,7 +22,7 @@ This project provides an AI-driven, non-judgmental conversational agent designed
 * **Empathetic AI Interface:** Built with Google's Gemini LLM, guided by custom prompt templates to ensure supportive and safe responses.
 * **Safety First & Crisis Intervention:** Dedicated crisis detection logic that provides immediate hotline contacts when distressed keywords are recognized.
 * **Interactive Web App:** Clean, intuitive UI built using Streamlit's native chat components (`st.chat_message` and `st.chat_input`).
-* **Resource Library:** Quick-access suggestions for mindfulness exercises, study-break routines, and stress management.
+* **Mood-Adaptive Responses:** Includes an interactive mood selector so users can share their current emotional state (e.g., anxious, overwhelmed, low energy), allowing the AI to customize its tone, empathy, and recommendations accordingly.
 
 ---
 
