@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Student Mental Health Companion Chatbot
 
 An empathetic, accessible, and privacy-focused AI chatbot built to support students dealing with stress, anxiety, and academic burnout. Powered by Python, Streamlit, and the Google Gemini API.
